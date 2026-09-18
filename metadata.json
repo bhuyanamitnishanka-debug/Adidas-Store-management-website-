@@ -1,0 +1,6 @@
+{
+  "name": "OmniRetail Store Manager Suite",
+  "description": "Comprehensive Store Management Suite covering Store & Warehouse Inventory, Visual Merchandising Design, HR & Employment, CRM, and Predictive Sales Forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
